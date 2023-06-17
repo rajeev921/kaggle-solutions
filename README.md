@@ -46,7 +46,7 @@
 
 
 ## Overview
-This repo consists of almost all available solutions and ideas shared by top performers in the past Kaggle competitions. This list gets updated as soon as a new competition finishes. It allows you to search over the Kaggle past competition solutions and ideas.
+This repo s consists of almost all available solutions and ideas shared by top performers in the past Kaggle competitions. This list gets updated as soon as a new competition finishes. It allows you to search over the Kaggle past competition solutions and ideas.
 
 
 ## Usage
